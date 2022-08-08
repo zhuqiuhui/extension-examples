@@ -1,0 +1,2 @@
+maleHumanService=com.zqh.extension.dubbospi.impl.MaleHumanServiceImpl
+femaleHumanService=com.zqh.extension.dubbospi.impl.FemaleHumanServiceImpl
